@@ -1,16 +1,101 @@
-### Hi there 👋
+<h2 align="left">👨🏻‍💻 Dmitriy Dolgin | 💻 Web Developer | 🏠 Moscow, Russia</h2>
+<p>I'm a master degree student at the Russian Technological University. I specialize in the field of Information Systems and Technologies at the faculty of Cyber ​​Security and Digital Technologies.</p>
+<p>I'm developing websites and web applications using Flask, PostgreSQL and Nginx. I'm currently learning VueJS in order to create a good frontend part in my applications and become a full-stack developer.</p>
 
-<!--
-**dedol/dedol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🔧 Technologies & Tools</h3>
+<a href="https://en.wikipedia.org/wiki/MacOS">
+  <img src="https://img.shields.io/badge/OS-macOS-0D96F6?style=flat&logo=apple&logoColor=white">
+</a>
+<a href="https://en.wikipedia.org/wiki/Linux">
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux&logoColor=white">
+</a>
+<a href="https://en.wikipedia.org/wiki/Bash/">
+  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white">
+</a>
+<a href="https://code.visualstudio.com/">
+  <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
+</a>
+<br>
+<a href="https://flask.palletsprojects.com/">
+  <img src="https://img.shields.io/badge/Python-Flask-4B8BBE?style=flat&logo=python&logoColor=white">
+</a>
+<a href="https://vuejs.org/">
+  <img src="https://img.shields.io/badge/JavaScript-Vue-41B883?style=flat&logo=javascript&logoColor=white">
+</a>
+<a href="https://www.postgresql.org/">
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+</a>
+<br>
+<a href="https://www.postman.com/">
+  <img src="https://img.shields.io/badge/API-Postman-FF6C37?style=flat&logo=postman&logoColor=white">
+</a>
+<a href="https://www.heroku.com/">
+  <img src="https://img.shields.io/badge/Cloud-Heroku-662D91?style=flat&logo=heroku&logoColor=white">
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://img.shields.io/badge/Containerizing-Docker-2496ED?style=flat&logo=docker&logoColor=white">
+</a>
 
-Here are some ideas to get you started:
+<h3>👨🏻‍💻 Skills</h3>
+<a href="https://en.wikipedia.org/wiki/HTML">
+  <img src="https://img.shields.io/badge/HTML-9%20Years-E34F26?style=flat&logo=html5&logoColor=white">
+</a>
+<a href="https://ru.wikipedia.org/wiki/CSS">
+  <img src="https://img.shields.io/badge/CSS-9%20Years-1572B6?style=flat&logo=css3&logoColor=white">
+</a>
+<a href="https://www.php.net/">
+  <img src="https://img.shields.io/badge/PHP-9%20Years-777BB4?style=flat&logo=php&logoColor=white">
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://img.shields.io/badge/MySQL-9%20Years-4479A1?style=flat&logo=mysql&logoColor=white">
+</a>
+<br>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B">
+  <img src="https://img.shields.io/badge/C++-6%20Years-0D60FE?style=flat&logo=cplusplus&logoColor=white">
+</a>
+<a href="https://www.arduino.cc/">
+  <img src="https://img.shields.io/badge/Arduino-6%20Years-00979D?style=flat&logo=arduino&logoColor=white">
+</a>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-4%20Years-3776AB?style=flat&logo=python&logoColor=white">
+</a>
+<a href="https://www.selenium.dev/">
+  <img src="https://img.shields.io/badge/Selenium-4%20Years-43B02A?style=flat&logo=selenium&logoColor=white">
+</a>
+<br>
+<a href="https://developer.mozilla.org/en/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-3%20Years-F7DF1E?style=flat&logo=javascript&logoColor=white">
+</a>
+<a href="https://addons.mozilla.org/">
+  <img src="https://img.shields.io/badge/Browser%20Addons-2%20Years-4C8DF6?style=flat&logo=googlechrome&logoColor=white">
+</a>
+<a href="https://flask.palletsprojects.com/">
+  <img src="https://img.shields.io/badge/Flask-1.5%20Years-3776AB?style=flat&logo=flask&logoColor=white">
+</a>
+<br>
+<a href="https://www.postgresql.org/">
+  <img src="https://img.shields.io/badge/PostgreSQL-9%20Months-4169E1?style=flat&logo=postgresql&logoColor=white">
+</a>
+<a href="https://vuejs.org/">
+  <img src="https://img.shields.io/badge/Vue-6%20Months-4FC08D?style=flat&logo=vuedotjs&logoColor=white">
+</a>
+<a href="https://nginx.org/">
+  <img src="https://img.shields.io/badge/NGINX-6%20Months-009639?style=flat&logo=nginx&logoColor=white">
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://img.shields.io/badge/Docker-6%20Months-2496ED?style=flat&logo=docker&logoColor=white">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>✉️ Contacts</h3>
+<a href="https://t.me/dedol">
+  <img src="https://img.shields.io/badge/Telegram-dedol-26A5E4?style=flat&logo=telegram&logoColor=white">
+</a>
+<a href="mailto:dmitriy@dolg.in">
+  <img src="https://img.shields.io/badge/Email-dmitriy@dolg.in-8A90C7?style=flat&logo=protonmail&logoColor=white">
+</a>
+
+<h3>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=dedol">
+  </a>
+</h3>
