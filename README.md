@@ -1,5 +1,5 @@
 <h2 align="left">👨🏻‍💻 Dmitriy Dolgin | 💻 Web Developer | 🏠 Moscow, Russia</h2>
-<p>I'm a master degree student at the Russian Technological University. I specialize in the field of Information Systems and Technologies at the faculty of Cyber ​​Security and Digital Technologies.</p>
+<p>I'm a master degree student at the Russian Technological University. I specialize in the field of Information Systems and Technologies at the faculty of Cyber Security and Digital Technologies.</p>
 <p>I'm developing websites and web applications using Flask, PostgreSQL and Nginx. I'm currently learning VueJS in order to create a good frontend part in my applications and become a full-stack developer.</p>
 
 <h3>🔧 Technologies & Tools</h3>
@@ -66,16 +66,23 @@
 <a href="https://developer.mozilla.org/en/docs/Web/JavaScript">
   <img src="https://img.shields.io/badge/JavaScript-3%20Years-F7DF1E?style=flat&logo=javascript&logoColor=white">
 </a>
+<a href="https://getbootstrap.com/">
+  <img src="https://img.shields.io/badge/Bootstrap-2%20Years-7952B3?style=flat&logo=bootstrap&logoColor=white">
+</a>
 <a href="https://addons.mozilla.org/">
   <img src="https://img.shields.io/badge/Browser%20Addons-2%20Years-4C8DF6?style=flat&logo=googlechrome&logoColor=white">
 </a>
+<br>
 <a href="https://flask.palletsprojects.com/">
   <img src="https://img.shields.io/badge/Flask-1.5%20Years-3776AB?style=flat&logo=flask&logoColor=white">
 </a>
-<br>
+<a href="https://www.sqlite.org/">
+  <img src="https://img.shields.io/badge/SQLite-1.5%20Years-003B57?style=flat&logo=sqlite&logoColor=white">
+</a>
 <a href="https://www.postgresql.org/">
   <img src="https://img.shields.io/badge/PostgreSQL-9%20Months-4169E1?style=flat&logo=postgresql&logoColor=white">
 </a>
+<br>
 <a href="https://vuejs.org/">
   <img src="https://img.shields.io/badge/Vue-6%20Months-4FC08D?style=flat&logo=vuedotjs&logoColor=white">
 </a>
@@ -99,3 +106,8 @@
     <img src="https://komarev.com/ghpvc/?username=dedol">
   </a>
 </h3>
+
+<!-- 
+icons: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
+colors: https://simpleicons.org/?q=bootstrap 
+-->
