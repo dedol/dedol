@@ -15,7 +15,7 @@
 <a href="https://code.visualstudio.com/">
   <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
 </a>
-<br>
+<br class="rm">
 <a href="https://flask.palletsprojects.com/">
   <img src="https://img.shields.io/badge/Python-Flask-4B8BBE?style=flat&logo=python&logoColor=white">
 </a>
@@ -25,7 +25,7 @@
 <a href="https://www.postgresql.org/">
   <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
 </a>
-<br>
+<br class="rm">
 <a href="https://www.postman.com/">
   <img src="https://img.shields.io/badge/API-Postman-FF6C37?style=flat&logo=postman&logoColor=white">
 </a>
@@ -49,7 +49,7 @@
 <a href="https://www.mysql.com/">
   <img src="https://img.shields.io/badge/MySQL-9%20Years-4479A1?style=flat&logo=mysql&logoColor=white">
 </a>
-<br>
+<br class="rm">
 <a href="https://en.wikipedia.org/wiki/C%2B%2B">
   <img src="https://img.shields.io/badge/C++-6%20Years-0D60FE?style=flat&logo=cplusplus&logoColor=white">
 </a>
@@ -62,7 +62,7 @@
 <a href="https://www.selenium.dev/">
   <img src="https://img.shields.io/badge/Selenium-4%20Years-43B02A?style=flat&logo=selenium&logoColor=white">
 </a>
-<br>
+<br class="rm">
 <a href="https://developer.mozilla.org/en/docs/Web/JavaScript">
   <img src="https://img.shields.io/badge/JavaScript-3%20Years-F7DF1E?style=flat&logo=javascript&logoColor=white">
 </a>
@@ -72,7 +72,7 @@
 <a href="https://addons.mozilla.org/">
   <img src="https://img.shields.io/badge/Browser%20Addons-2%20Years-4C8DF6?style=flat&logo=googlechrome&logoColor=white">
 </a>
-<br>
+<br class="rm">
 <a href="https://flask.palletsprojects.com/">
   <img src="https://img.shields.io/badge/Flask-1.5%20Years-3776AB?style=flat&logo=flask&logoColor=white">
 </a>
@@ -82,7 +82,7 @@
 <a href="https://www.postgresql.org/">
   <img src="https://img.shields.io/badge/PostgreSQL-9%20Months-4169E1?style=flat&logo=postgresql&logoColor=white">
 </a>
-<br>
+<br class="rm">
 <a href="https://vuejs.org/">
   <img src="https://img.shields.io/badge/Vue-6%20Months-4FC08D?style=flat&logo=vuedotjs&logoColor=white">
 </a>
@@ -97,11 +97,14 @@
 <a href="https://t.me/dedol">
   <img src="https://img.shields.io/badge/Telegram-dedol-26A5E4?style=flat&logo=telegram&logoColor=white">
 </a>
+<a href="https://github.com/dedol">
+  <img src="https://img.shields.io/badge/GitHub-dedol-2088FF?style=flat&logo=github&logoColor=white">
+</a>
 <a href="mailto:dmitriy@dolg.in">
   <img src="https://img.shields.io/badge/Email-dmitriy@dolg.in-8A90C7?style=flat&logo=protonmail&logoColor=white">
 </a>
 
-<h3>
+<h3 class="rm">
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=dedol">
   </a>
