@@ -1,6 +1,7 @@
 <h2 align="left">👨🏻‍💻 Dmitriy Dolgin | 💻 Web Developer | 🏠 Moscow, Russia</h2>
 <p>I'm a master degree student at the Russian Technological University. I specialize in the field of Information Systems and Technologies at the faculty of Cyber Security and Digital Technologies.</p>
 <p>I'm developing websites and web applications using Flask, PostgreSQL and Nginx. I'm currently learning VueJS in order to create a good frontend part in my applications and become a full-stack developer.</p>
+<p>I'm currently working on <a href="https://github.com/dedol/dashboard">📊 Devices-based dashboard for your smart home</a></p>
 
 <h3>🔧 Technologies & Tools</h3>
 <a href="https://en.wikipedia.org/wiki/MacOS">
@@ -34,6 +35,13 @@
 </a>
 <a href="https://www.docker.com/">
   <img src="https://img.shields.io/badge/Containerizing-Docker-2496ED?style=flat&logo=docker&logoColor=white">
+</a>
+<br class="rm">
+<a href="https://www.atlassian.com/software/jira">
+  <img src="https://img.shields.io/badge/Management-Jira-0052CC?style=flat&logo=jira&logoColor=white">
+</a>
+<a href="https://www.atlassian.com/software/confluence">
+  <img src="https://img.shields.io/badge/Documentation-Confluence-172B4D?style=flat&logo=confluence&logoColor=white">
 </a>
 
 <h3>👨🏻‍💻 Skills</h3>
