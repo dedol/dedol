@@ -101,6 +101,28 @@
   <img src="https://img.shields.io/badge/Docker-6%20Months-2496ED?style=flat&logo=docker&logoColor=white">
 </a>
 
+<h3>🎓 Education & Career</h3>
+<img src="https://raw.githubusercontent.com/dedol/dedol/main/images/career.png" width="800">
+
+<h3>🔥 Top of my PET-Projects</h3>
+<a href="https://github.com/dedol/PostAddressSpoofer">
+  <img src="https://raw.githubusercontent.com/dedol/dedol/main/images/post-address-spoofer.png" width="400">
+</a>
+<a href="https://github.com/dedol/PrivacyShield">
+  <img src="https://raw.githubusercontent.com/dedol/dedol/main/images/privacy-shield.png" width="400">
+</a>
+
+<a href="https://github.com/dedol/troika-tat-hack">
+  <img src="https://raw.githubusercontent.com/dedol/dedol/main/images/moscow-troika-hack.png" width="400">
+</a>
+<a href="https://github.com/dedol/dashboard">
+  <img src="https://raw.githubusercontent.com/dedol/dedol/main/images/dashboard.png" width="400">
+</a>
+
+<h3>⚙️ Hardware Projects</h3>
+<img src="https://raw.githubusercontent.com/dedol/dedol/main/images/espcore.png" width="400">
+<img src="https://raw.githubusercontent.com/dedol/dedol/main/images/wled-controller.png" width="400">
+
 <h3>✉️ Contacts</h3>
 <a href="https://t.me/dedol">
   <img src="https://img.shields.io/badge/Telegram-dedol-26A5E4?style=flat&logo=telegram&logoColor=white">
