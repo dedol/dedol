@@ -120,8 +120,12 @@
 </a>
 
 <h3>⚙️ Hardware Projects</h3>
-<img src="https://raw.githubusercontent.com/dedol/dedol/main/images/espcore.png" width="400">
-<img src="https://raw.githubusercontent.com/dedol/dedol/main/images/wled-controller.png" width="400">
+<a href="">
+  <img src="https://raw.githubusercontent.com/dedol/dedol/main/images/espcore.png" width="400">
+</a>
+<a href="">
+  <img src="https://raw.githubusercontent.com/dedol/dedol/main/images/wled-controller.png" width="400">
+</a>
 
 <h3>✉️ Contacts</h3>
 <a href="https://t.me/dedol">
