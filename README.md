@@ -123,10 +123,10 @@
 </a>
 
 <h3>⚙️ Hardware Projects</h3>
-<a href="">
+<a href="https://github.com/dedol/ESPCore">
   <img src="https://raw.githubusercontent.com/dedol/dedol/main/images/espcore.png" width="400">
 </a>
-<a href="">
+<a href="https://github.com/dedol/WLED-Controller">
   <img src="https://raw.githubusercontent.com/dedol/dedol/main/images/wled-controller.png" width="400">
 </a>
 
