@@ -26,6 +26,9 @@
 <a href="https://www.postgresql.org/">
   <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
 </a>
+<a href="https://www.sqlalchemy.org/">
+  <img src="https://img.shields.io/badge/ORM-SQLAlchemy-3B86EA?style=flat&logo=microsoftsqlserver&logoColor=white">
+</a>
 <br class="rm">
 <a href="https://www.postman.com/">
   <img src="https://img.shields.io/badge/API-Postman-FF6C37?style=flat&logo=postman&logoColor=white">
