@@ -105,18 +105,18 @@
 </a>
 
 <h3>🎓 Education & Career</h3>
-<img src="https://raw.githubusercontent.com/dedol/dedol/main/images/career.png" width="820">
+<img src="https://raw.githubusercontent.com/dedol/dedol/main/images/career.png" width="805">
 
 <h3>🔥 Top of my PET-Projects</h3>
 <a href="https://github.com/dedol/PostAddressSpoofer">
-  <img src="https://raw.githubusercontent.com/dedol/dedol/main/images/post-address-spoofer.png" width="415">
+  <img src="https://raw.githubusercontent.com/dedol/dedol/main/images/post-address-spoofer.png" width="400">
 </a>
 <a href="https://github.com/dedol/PrivacyShield">
   <img src="https://raw.githubusercontent.com/dedol/dedol/main/images/privacy-shield.png" width="400">
 </a>
 
 <a href="https://github.com/dedol/troika-tat-hack">
-  <img src="https://raw.githubusercontent.com/dedol/dedol/main/images/moscow-troika-hack.png" width="415">
+  <img src="https://raw.githubusercontent.com/dedol/dedol/main/images/moscow-troika-hack.png" width="400">
 </a>
 <a href="https://github.com/dedol/dashboard">
   <img src="https://raw.githubusercontent.com/dedol/dedol/main/images/dashboard.png" width="400">
@@ -124,7 +124,7 @@
 
 <h3>⚙️ Hardware Projects</h3>
 <a href="https://github.com/dedol/ESPCore">
-  <img src="https://raw.githubusercontent.com/dedol/dedol/main/images/espcore.png" width="415">
+  <img src="https://raw.githubusercontent.com/dedol/dedol/main/images/espcore.png" width="400">
 </a>
 <a href="https://github.com/dedol/WLED-Controller">
   <img src="https://raw.githubusercontent.com/dedol/dedol/main/images/wled-controller.png" width="400">
