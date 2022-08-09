@@ -85,23 +85,33 @@
 </a>
 <br class="rm">
 <a href="https://flask.palletsprojects.com/">
-  <img src="https://img.shields.io/badge/Flask-1.5%20Years-3776AB?style=flat&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-2%20Years-3776AB?style=flat&logo=flask&logoColor=white">
 </a>
 <a href="https://www.sqlite.org/">
-  <img src="https://img.shields.io/badge/SQLite-1.5%20Years-003B57?style=flat&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-2%20Years-003B57?style=flat&logo=sqlite&logoColor=white">
 </a>
 <a href="https://www.postgresql.org/">
-  <img src="https://img.shields.io/badge/PostgreSQL-9%20Months-4169E1?style=flat&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-1%20Year-4169E1?style=flat&logo=postgresql&logoColor=white">
 </a>
 <br class="rm">
 <a href="https://vuejs.org/">
-  <img src="https://img.shields.io/badge/Vue-6%20Months-4FC08D?style=flat&logo=vuedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue-1%20Year-4FC08D?style=flat&logo=vuedotjs&logoColor=white">
 </a>
 <a href="https://nginx.org/">
-  <img src="https://img.shields.io/badge/NGINX-6%20Months-009639?style=flat&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/NGINX-1%20Year-009639?style=flat&logo=nginx&logoColor=white">
 </a>
 <a href="https://www.docker.com/">
-  <img src="https://img.shields.io/badge/Docker-6%20Months-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-1%20Year-2496ED?style=flat&logo=docker&logoColor=white">
+</a>
+<br class="rm">
+<a href="https://redis.io/">
+  <img src="https://img.shields.io/badge/Redis-6%20Months-DC382D?style=flat&logo=redis&logoColor=white">
+</a>
+<a href="https://mongodb.com/">
+  <img src="https://img.shields.io/badge/MongoDB-6%20Months-47A248?style=flat&logo=mongodb&logoColor=white">
+</a>
+<a href="https://rabbitmq.com/">
+  <img src="https://img.shields.io/badge/RabbitMQ-6%20Months-FF6600?style=flat&logo=rabbitmq&logoColor=white">
 </a>
 
 <h3>🎓 Education & Career</h3>
